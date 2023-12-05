@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Huỳnh Lê Thủy Tiên**<img src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" width="400" align="right"/>
+- :credit_card: My full name is **Joel Lawii**<img src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" width="400" align="right"/>
 - :school: I am currently studying self-taught.
 - :books: My major is **Developer Web**.
 - :sweat_smile: I am a programming enthusiast and I like to continue learning about technology.
@@ -20,7 +20,7 @@
 
 ## Trayectoria:
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/Joel-Lawi/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
