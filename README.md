@@ -30,8 +30,7 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  Thanks for watching my profile! Have a nice day!
 </div>
 
 ------
