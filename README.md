@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=30F70E&background=060E3BD7&vCenter=true&repeat=false&random=false&width=605&height=60&lines=%3E+Welcome+to+my+portfolio+.+.+.+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=30F70E&background=060E3BD7&vCenter=true&random=false&width=640&height=60&lines=%3E+Welcome+to+my+Github+profile+.+.+.+!" alt="Typing SVG" /></a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
