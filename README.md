@@ -2,7 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=15F722&background=A4161600&repeat=false&random=false&width=435&lines=%22> Welcome+to+my+portfolio...+!%22" alt="Typing SVG" /></a>
 </div>
 
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Joel Lawii**<img src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" width="400" align="right"/>
