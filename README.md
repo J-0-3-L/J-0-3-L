@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Joel+Lawii;Welcome+to+my+profile!" alt="Title"></img>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=15F722&background=A4161600&repeat=false&random=false&width=435&lines=%22Welcome+to+my+portfolio%22" alt="Typing SVG" /></a>
 </div>
 
 
@@ -18,21 +18,14 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-## Trayectoria:
-<div align="center">
-  <a href="https://github.com/Joel-Lawi/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/joelawii/" target="_blank">
+    <img align="center" alt="Joel | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <a href="https://github.com/Joel-Lawi" target="_blank">
+    <img align="center" alt="Joel | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
@@ -43,4 +36,4 @@
 
 ------
 
-Last Edited on: 22/12/2021
+Last Edited on: 04/12/2023
