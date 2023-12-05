@@ -20,7 +20,7 @@
     <img align="center" alt="Joel | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/Joel-Lawi" target="_blank">
+  <a href="https://github.com/J-0-3-L" target="_blank">
     <img align="center" alt="Joel | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
