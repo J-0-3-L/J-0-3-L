@@ -4,7 +4,7 @@
 
 > About Me:
 
-- :credit_card: My full name is **Joel Lawii**<img src="https://w.forfun.com/fetch/99/9998247f121f83a099c19ab8f6232db8.jpeg" width="400" align="right"/>
+- :credit_card: My full name is **Joel Lawii**<img src="https://i.pinimg.com/736x/a2/39/2e/a2392e422a7a34281ee1960eb9ad0ee2.jpg" width="500" align="right"/>
 - :school: I am currently studying self-taught.
 - :books: My major is **Developer Web**.
 - :sweat_smile: I am a programming enthusiast and I like to continue learning about technology.
@@ -13,10 +13,11 @@
 
 > Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,astro)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,github,discord)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,linux,github,discord)](https://skillicons.dev)<br/>
 
 > For More Information:
 <p align="center">
