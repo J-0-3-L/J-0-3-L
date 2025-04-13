@@ -4,7 +4,7 @@
 
 > About Me:
 
-- :credit_card: My full name is **Joel Lawii**<img src="https://i.pinimg.com/736x/a2/39/2e/a2392e422a7a34281ee1960eb9ad0ee2.jpg" width="500" align="right"/>
+- :credit_card: My full name is **Joel Lawii**<img src="https://i.pinimg.com/736x/a2/39/2e/a2392e422a7a34281ee1960eb9ad0ee2.jpg" width="400" align="right"/>
 - :school: I am currently studying self-taught.
 - :books: My major is **Developer Web**.
 - :sweat_smile: I am a programming enthusiast and I like to continue learning about technology.
@@ -31,4 +31,4 @@
 
 ------
 
-Last Edited on: 04/12/2023
+Last Edited on: 13/04/2025
