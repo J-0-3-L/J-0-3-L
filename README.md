@@ -1,6 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=30F70E&background=060E3BD7&vCenter=true&random=false&width=640&height=60&lines=%3E+Welcome+to+my+Github+profile+.+.+.+!" alt="Typing SVG" /></a>
+<div align="left">
+   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=30F70E&background=060E3BD7&vCenter=true&random=false&width=600&height=40&lines=%3E+Welcome+to+my+Github+profile+.+.+.+!" alt="Typing SVG" /></a>
 </div>
+<hr>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113271233/440246560-13d4c640-dafd-4702-a28b-00470781d384.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250505T033108Z&X-Amz-Expires=300&X-Amz-Signature=bee2278a7fa2874c1965f8d60a27cc2b380cac0c76e4e1d6ff8dc5f2215fe65f&X-Amz-SignedHeaders=host"/>
 
 > About Me:
 
