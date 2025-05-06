@@ -8,7 +8,7 @@
 
 > About Me:
 
-🎓Soy autodidacta y me apasiona la programación y la tecnología. 📚 Constantemente exploro nuevas herramientas, lenguajes y conceptos para mejorar mis habilidades. 😎 Me interesa especialmente la programación, y cuando no estoy aprendiendo ni desarrollando, disfruto relajándome con películas o simplemente recuperando el sueño. 😅
+🎓Soy autodidacta y me apasiona todo relacionado a la tecnología. 📚 Constantemente exploro nuevas herramientas, lenguajes y conceptos para mejorar mis habilidades. 😎 Me interesa el mundo de la programación y cuando no estoy aprendiendo ni desarrollando disfruto relajándome con peliculas o simplemente recuperando el sueño. 😅
 
 
 > Languages and Tools:
